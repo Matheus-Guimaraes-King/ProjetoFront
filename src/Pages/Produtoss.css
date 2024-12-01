@@ -1,0 +1,15 @@
+.produtos {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    align-items: center;
+    width: 100%;
+    /* gap: 10px; */
+  }
+
+  .produtos2 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    align-items: center;
+    width: 100%;
+    /* gap: 10px; */
+  }
